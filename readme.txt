@@ -21,3 +21,5 @@ Ahora que ya sé que el commit actual es el único erroneo, hago "git reset --ha
 
 Por último, creado en .git/hooks/ un hook "pre-commit" que al ejecutar un comando "git commit" antes de realizar este comando, muestra
 un mensaje de advertencia.
+
+El repositorio en github es: https://github.com/nmp50-ua/Practica-9-DCA
